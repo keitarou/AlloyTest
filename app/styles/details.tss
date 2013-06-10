@@ -1,0 +1,22 @@
+".container": {
+	backgroundColor: "white"
+},
+
+"#title":{
+	top:20,
+	width: Ti.UI.FILL,
+	left: "24dp",
+	font: {fontSize:"16dp" ,fontWeight:"bold"},
+},
+
+"#largeImageUrl":{
+	
+},
+
+"#itemCaption":{
+	top:200,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	left: "24dp",
+	font: {fontSize:"13dp"},
+}

@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Label id="title"></Label>
+		<ImageView id="largeImageUrl" image="/image1.jpg" />
+		<Label id="itemCaption"></Label>
+	</Window>
+</Alloy>

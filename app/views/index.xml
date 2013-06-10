@@ -1,0 +1,18 @@
+<Alloy>
+	<TabGroup>
+		
+		<Tab id="tab1" icon="KS_nav_views.png" title="Tab 1">
+			<Window id="window1" title="Tab 1" backgroundColor="#fff">
+				<SearchBar id="searchBar" showCancel="true" height="43" top="0" />
+				<TableView id="tableView" top="43" />
+			</Window>
+		</Tab>
+
+		<Tab id="tab2" icon="KS_nav_ui.png" title="Tab 2">
+			<Window id="window2" title="Tab 2" backgroundColor="#fff">
+				<Label id="label2">Window2</Label>
+			</Window>
+		</Tab>
+
+	</TabGroup>
+</Alloy>

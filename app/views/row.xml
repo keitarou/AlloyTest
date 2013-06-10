@@ -1,0 +1,6 @@
+<Alloy>
+	<TableViewRow id="row" onClick="showDetail">
+		<ImageView id="image" image="/image1.jpg" />
+		<Label id="title">Title</Label>
+	</TableViewRow>
+</Alloy>

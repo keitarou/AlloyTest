@@ -1,0 +1,21 @@
+".container": {
+	backgroundColor:"white"
+},
+"#label1": {
+	top:100,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+"#label2": {
+	top:200,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+"#label3": {
+	top:300,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+} 

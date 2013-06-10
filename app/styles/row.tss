@@ -1,0 +1,15 @@
+"#row": {
+	width: Ti.UI.FILL,
+	height: "86dp",
+},
+
+"#title": {
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	left: "62dp",
+	color: "#a62901",
+	font: {fontSize:"16dp" ,fontWeight:"bold"},
+},
+"#image": {
+	left: "18dp"
+}
